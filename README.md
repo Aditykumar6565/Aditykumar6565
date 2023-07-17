@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditykumar6565&label=Profile%20views&color=0e75b6&style=flat" alt="aditykumar6565" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditykumar6565" alt="aditykumar6565" /></a> </p>
+
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **MERN,DeepLearning**
+- 👯 I’m looking to collaborate on **MERN & Deep-Learning**
 
 - 🤝 I’m looking for help with **MERN Stack**
 
@@ -31,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditykumar6565&show_icons=true&locale=en&layout=compact" alt="aditykumar6565" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditykumar6565&show_icons=true&locale=en" alt="aditykumar6565" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditykumar6565&" alt="aditykumar6565" /></p>
