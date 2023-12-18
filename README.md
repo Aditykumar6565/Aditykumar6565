@@ -32,6 +32,6 @@
 
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aditykumar6565"/></a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditykumar6565&show_icons=true&locale=en" alt="aditykumar6565" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditykumar6565&" alt="aditykumar6565" /></p>
